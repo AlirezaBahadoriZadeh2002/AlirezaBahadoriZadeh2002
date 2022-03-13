@@ -8,15 +8,6 @@
 - My Email : alireza.bahadori.zadeh.2002@gmail.com
 - My Linkedin : https://www.linkedin.com/in/alireza-bahadori-zadeh-9a4173222/
 - My Telegram : @ABZ_2002
-
-
-## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="mailto:alireza.bahadori.zadeh.2002@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/alireza-bahadori-zadeh-9a4173222/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-
-<hr/>
 <!---
 AlirezaBahadoriZadeh2002/AlirezaBahadoriZadeh2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
