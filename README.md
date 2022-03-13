@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Alireza Bahadori Zadeh </h1>
+
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 - 👀 I’m interested in DevOps and Linux
 - 🌱 I’m currently learning Computer Engineering and DevOps
