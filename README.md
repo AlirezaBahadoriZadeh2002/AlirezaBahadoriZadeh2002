@@ -1,3 +1,4 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 - 👋 Hi, I’m @AlirezaBahadoriZadeh2002
 - 👀 I’m interested in DevOps and Linux
 - 🌱 I’m currently learning Computer Engineering and DevOps
