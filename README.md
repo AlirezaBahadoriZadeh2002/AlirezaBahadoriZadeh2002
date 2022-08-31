@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I am Alireza Bahadori Zadeh </h1>
 
 - 👀 I’m interested in DevOps and Linux
-- 🌱 I’m currently learning Computer Engineering and DevOps
+- 🌱 I’m currently study Computer Engineering at university and  learning DevOps
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me :
 - My Email : alireza.bahadori.zadeh.2002@gmail.com
